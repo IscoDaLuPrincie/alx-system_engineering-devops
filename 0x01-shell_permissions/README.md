@@ -1,1 +1,2 @@
-Code for shell permissions
+Code for shell permissions 
+all tasks done
